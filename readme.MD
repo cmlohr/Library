@@ -1,4 +1,4 @@
-# Personal Collection of Research Papers
+# Personal Collection of Research Papers & Books
 
 This is my personal collection of research papers that I am reading, have read, or intend to read. The topics span a wide range of subjects, specifically focusing on:
 
