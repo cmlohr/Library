@@ -4,7 +4,8 @@
 
 ### OS Structures
 
-- **Brian Bershad et al.** "Extensibility, Safety and Performance in the SPIN Operating System", Proceedings of the 15th ACM Symposium on Operating System Principles, December 1995
+- **Brian Bershad et al.** "Extensibility, Safety and Performance in the SPIN Operating System", Proceedings of the 15th ACM Symposium on Operating System Principles, December 1995 <https://cseweb.ucsd.edu/~savage/papers/Sosp95.pdf>
+
 - **Dawson R. Engler, Frans Kaashoek, and James O'Toole** "Exokernel: An Operating System Architecture for Application-Level Resource Management", Proceedings of the 15th ACM Symposium on Operating System Principles, ACM, December 1995
 - **J Liedtke** "On Micro-Kernel Construction", Proceedings of the 15th ACM Symposium on Operating System Principles, ACM, December 1995
 - **J Liedtke** "Improved Address-Space Switching on Pentium Processors by Transparently Multiplexing User Address Spaces", GMD Technical Report No. 933, November 1995 (self-study)
